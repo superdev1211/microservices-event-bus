@@ -1,0 +1,14 @@
+{
+  "name": "microservices-event-bus",
+  "version": "1.0.0",
+  "description": "Event-driven microservices communication layer with RabbitMQ and Kafka adapters",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
